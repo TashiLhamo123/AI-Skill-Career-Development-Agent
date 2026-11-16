@@ -1,0 +1,9 @@
+
+career,description,required_skills
+Data Analyst,Analyzes data to find useful information,"Python,SQL,Excel,Power BI,Statistics,Data Visualization"
+Data Scientist,Uses data and machine learning to solve problems,"Python,SQL,Statistics,Machine Learning,Data Visualization"
+Web Developer,Builds and maintains websites,"HTML,CSS,JavaScript,Python,Database Management"
+Database Administrator,Manages and maintains databases,"SQL,Database Management,Python,Data Security,Problem Solving"
+Business Analyst,Studies business needs and recommends solutions,"Excel,SQL,Communication,Problem Solving,Data Visualization"
+Machine Learning Engineer,Develops and deploys machine learning models,"Python,Statistics,Machine Learning,SQL,Problem Solving"
+
